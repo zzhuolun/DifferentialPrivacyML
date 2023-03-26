@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*ckpt
+*.h5
+logs/
+mia_logs/
+arxiv/
+test.py
+test2.py
